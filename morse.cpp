@@ -1,7 +1,7 @@
 /*
 Created by Justin C.
 Created on October 10th, 2026
-Last Edited: October 11th, 2026
+Last Edited: October 20th, 2026
 
 Translating button pushes inspired by Morse Code to convert
 Into letters on an lcd screen
