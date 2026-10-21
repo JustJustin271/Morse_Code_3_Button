@@ -172,9 +172,7 @@ void appendMessage(char appendage) {
 
   if (appendage == '.'){
     triggerBuzzer(dotBuzzDuration); //Buzzes shortly
-  }
-  
-  else if (appendage == '-') {
+  } else if (appendage == '-') {
     triggerBuzzer(dashBuzzDuration); //Buzzes slightly longer
   }
 }
